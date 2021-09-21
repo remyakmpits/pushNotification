@@ -1,0 +1,7 @@
+{
+  "name": "oneSignalPush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

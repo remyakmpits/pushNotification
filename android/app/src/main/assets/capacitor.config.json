@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "oneSignalPush",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
